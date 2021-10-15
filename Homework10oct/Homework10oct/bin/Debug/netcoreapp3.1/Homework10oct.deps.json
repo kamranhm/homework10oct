@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homework10oct/1.0.0": {
+        "runtime": {
+          "Homework10oct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework10oct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

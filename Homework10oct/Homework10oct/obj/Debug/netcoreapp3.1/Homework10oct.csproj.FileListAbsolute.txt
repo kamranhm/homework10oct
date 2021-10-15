@@ -1,0 +1,13 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\bin\Debug\netcoreapp3.1\Homework10oct.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\bin\Debug\netcoreapp3.1\Homework10oct.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\bin\Debug\netcoreapp3.1\Homework10oct.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\bin\Debug\netcoreapp3.1\Homework10oct.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\bin\Debug\netcoreapp3.1\Homework10oct.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\bin\Debug\netcoreapp3.1\Homework10oct.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\obj\Debug\netcoreapp3.1\Homework10oct.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\obj\Debug\netcoreapp3.1\Homework10oct.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\obj\Debug\netcoreapp3.1\Homework10oct.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\obj\Debug\netcoreapp3.1\Homework10oct.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\obj\Debug\netcoreapp3.1\Homework10oct.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\obj\Debug\netcoreapp3.1\Homework10oct.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework10oct\Homework10oct\obj\Debug\netcoreapp3.1\Homework10oct.genruntimeconfig.cache
